@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">澳门旅行App</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">8L1zOJbZ29sDwn4ZlNcZzZEqVDBG4ac6d3c3-441d-44e7-b580-2dcf21f4b042</string>
+</resources>
